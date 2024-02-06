@@ -1,8 +1,8 @@
 # ReactJS - Book List Application
 
-This project forms part of upskilling and updating my React Skills. In the project you can create, edit and delete a booklist, a cource offered in Udemy for uscaling your React Skills to Modern React. This is a working document.
+This project forms part of upskilling and updating my Modern React Skills. In the project you can create, edit and delete books in a list, a course offered in Udemy for uscaling your React Skills to Modern React. This is a working document and will have additional commits later on as the project develops to optimise code and performance.
 
-Thes project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
