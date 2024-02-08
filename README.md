@@ -1,17 +1,28 @@
 # ReactJS - Book List Application
 
-This project forms part of upskilling and updating my Modern React Skills. In the project you can create, edit and delete books in a list, a course offered in Udemy for uscaling your React Skills to Modern React. This is a working document and will have additional commits later on as the project develops to optimise code and performance.
+This project forms part of upskilling and updating my Modern React Skills. This is a ongoing project and will have additional commits as the project develops to demonstrate optimisation of code and performance, as well as further understanding of React principles.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is the goal of this project
+
+This project showcases understanding of Modern ReactJS understanding and implementation. Throughout I will develop and optimise the code as we progress. There will be multiple phases to this project and continual release improvements demonstrating modern react skills and code optimisation:
+
+1. First phase is a basic non-persistent booklist. 
+⋅⋅* Phase 1: Houses static elements with ability to create, edit, delete and list books demonstrating understanding of useState and initial React Configuration. However it is non-persistent and not set, so refreshing the browser will clear the list and start from fresh.
+2. Phase Two compromises of persisted book list called through an outside API
+⋅⋅* Phase 2: Install and use OpenSource JSON Server for API updates. 
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you now need to run two commands to start the project:
 
-### `npm start`
+### `npm run start` to start React Dev Server[^1]
+### `npm run server` to start JSON API Server[^2]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[^1]: 3000 is the Local Host Port. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[^2]: 3001 is the JSON API Server Port as per package.json. 
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
