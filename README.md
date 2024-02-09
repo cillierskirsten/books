@@ -18,7 +18,7 @@ This project showcases understanding of Modern ReactJS understanding and impleme
 - Refactoring code with new features. Modernising React build by using Context Systems.
 
 4. Phase 4: Introduction to custom Hooks
-- Code optmisiation by introducing custom hook. This optimises code by reducing import functions across components and demonstrates basic understanding of custome hooks.
+- Code optmisation by introducing custom hook. This optimises code by reducing import functions across components and demonstrates basic understanding of custome hooks.
 
 ## Available Scripts
 
