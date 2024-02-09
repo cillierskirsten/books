@@ -8,14 +8,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project showcases understanding of Modern ReactJS understanding and implementation. Throughout I will develop and optimise the code as we progress. There will be multiple phases to this project and continual release improvements demonstrating modern react skills and code optimisation:
 
-1. First phase is a basic non-persistent booklist.
+1. Phase 1: is a basic non-persistent booklist.
 - Houses static elements with ability to create, edit, delete and list books demonstrating understanding of useState and initial React Configuration. However it is non-persistent and not set, so refreshing the browser will clear the list and start from fresh.
 
-2. Phase Two compromises of persisted book list called through an outside API
+2. Phase 2: compromises of persisted book list called through an outside API
 - Install and use OpenSource JSON Server for API updates. 
 
-3. Code refactoring using Context system
+3. Phase 3: Code refactoring using Context system
 - Refactoring code with new features. Modernising React build by using Context Systems.
+
+4. Phase 4: Introduction to custom Hooks
+- Code optmisiation by introducing custom hook. This optimises code by reducing import functions across components and demonstrates basic understanding of custome hooks.
 
 ## Available Scripts
 
