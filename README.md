@@ -20,6 +20,9 @@ This project showcases understanding of Modern ReactJS understanding and impleme
 4. Phase 4: Introduction to custom Hooks
 - Code optmisation by introducing custom hook. This optimises code by reducing import functions across components and demonstrates basic understanding of custome hooks.
 
+5. Phase 5: Understanding and introducing useCallback in Hooks
+- In useState we have an infinite loop if we call fetchBooks within the function. To elimnate the loop and optimise code we introduce useCallback. I really miss class-based components, use to be so much simpler.
+
 ## Available Scripts
 
 In the project directory, you now need to run two commands to start the project:
